@@ -66,7 +66,7 @@
     "eslint-plugin-jasmine": "^1.8.1",
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-lodash-fp": "^2.0.1",
-    "eslint-plugin-no-use-extend-native": "^0.3.8",
+    "eslint-plugin-no-use-extend-native": "^0.3.11",
     "eslint-plugin-promise": "^3.0.0",
     "eslint-plugin-react": "^6.3.0",
     "eslint-plugin-react-native": "^2.0.0",
