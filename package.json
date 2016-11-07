@@ -58,7 +58,7 @@
     "eslint": "~3.8.1"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^12.0.0",
+    "eslint-config-airbnb": "^13.0.0",
     "eslint-plugin-babel": "^3.3.0",
     "eslint-plugin-eslint-comments": "^0.1.1",
     "eslint-plugin-flowtype": "^2.23.0",
