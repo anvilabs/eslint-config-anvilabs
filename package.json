@@ -82,7 +82,7 @@
     "env-cmd": "^4.0.0",
     "eslint": "^3.13.1",
     "eslint-find-rules": "^1.14.3",
-    "husky": "^0.12.0",
+    "husky": "^0.13.0",
     "npm-run-all": "^4.0.0",
     "standard-version": "^4.0.0",
     "validate-commit-msg": "^2.8.2"
