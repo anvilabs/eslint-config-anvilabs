@@ -73,7 +73,7 @@
     "eslint-plugin-promise": "^3.4.0",
     "eslint-plugin-react": "^6.9.0",
     "eslint-plugin-react-native": "^2.2.1",
-    "eslint-plugin-unicorn": "^1.0.0"
+    "eslint-plugin-unicorn": "^2.0.1"
   },
   "devDependencies": {
     "commitizen": "^2.9.5",
